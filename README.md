@@ -8,7 +8,7 @@ Frontend
 1. JavaScript
 1. Bootstrap
 1. ReactJS
-1. Git & GitHub
+1. Git & GitHub (Doesn't come under Frontend but an essential skill for software developers) 
 
 Backend
 1. NodeJS
