@@ -8,9 +8,11 @@ Frontend
 1. JavaScript
 1. Bootstrap
 1. ReactJS
+1. Git & GitHub
 
 Backend
 1. NodeJS
 1. ExpressJS
 1. MongoDB
-1. Git & GitHub
+
+At the end of this course you will be able to build standalone full stack websites Amazon, Instagram, Facebook, etc. Just complete the below modules and keep patience.
