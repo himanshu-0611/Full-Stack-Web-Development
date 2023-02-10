@@ -51,7 +51,7 @@ NodeJS & ExpressJS Part 1 • 8 hrs: https://www.youtube.com/watch?v=Oe421EPjeBE
 NodeJS & ExpressJS Part 2 (Projects) • 10 hrs: https://youtu.be/qwfE7fSVaZM
 
 #13<br>
-MongoDB: https://www.youtube.com/watch?v=lBBtq3Oawqw
+MongoDB • 2hrs: https://www.youtube.com/watch?v=lBBtq3Oawqw
 
 #14<br>
 Final Project 'Memories' (MERN) Part 1 • 2 hrs: https://www.youtube.com/watch?v=ngc9gnGgUdA
