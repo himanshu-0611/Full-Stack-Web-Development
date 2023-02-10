@@ -1,4 +1,4 @@
-# Full-Stack-Web-Development
+# Full-Stack-Web-Development in 60 hours
 
 Skills Covered (to be gained in the same order):
 
@@ -15,7 +15,7 @@ Backend
 1. ExpressJS
 1. MongoDB
 
-At the end of this course you will be able to build standalone full stack websites Amazon, Instagram, Facebook, etc. Just complete the below modules and keep patience.
+At the end of this course you will be able to build standalone full stack websites like Amazon, Instagram, Facebook, etc. Just complete the below modules and keep patience.
 
 #1<br>
 HTML • 4hrs : https://youtu.be/kUMe1FH4CHE
